@@ -68,9 +68,10 @@ class MyFirstClass:
     def something(self):
         print('something')
 
+
 my_class = MyFirstClass()
-    print(my_class.name)
-    my_class.something()
+print(my_class.name)
+my_class.something()
 
 
 
