@@ -136,7 +136,7 @@ def logical_and():
 logical_and()
 
 # or
-def logical_or(num): # parameter
+def logical_or(num):  # parameter
     result = echo > num or num < delta
     print(result)
 

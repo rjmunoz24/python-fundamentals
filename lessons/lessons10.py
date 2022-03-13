@@ -73,8 +73,6 @@ my_cent.size = 5
 print(my_cent.to_millimeters())
 
 
-
-
 # begin with the main function
 if __name__ == '__main__':
     obj2 = MyClass()
